@@ -144,9 +144,9 @@ packages:
   firebase_messaging:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: firebase_messaging
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "9.0.0-1.0.nullsafety.0"
   firebase_messaging_platform_interface:
     dependency: "direct overridden"
